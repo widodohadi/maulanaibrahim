@@ -3,6 +3,9 @@ from pathlib import Path
 
 import streamlit as st
 
+st.title("Halo, Selamat Datang!")
+st.write("Aplikasi saya sudah berhasil berjalan!")
+
 # ======================================================================
 # ✏️  EDIT DATA DI SINI SAJA — sisanya otomatis
 # ======================================================================
